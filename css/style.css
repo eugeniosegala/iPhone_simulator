@@ -1,0 +1,91 @@
+  
+  #store {
+      position: absolute;
+      top: 314px;
+      left: 272px;
+      width: 50px;
+      height: 50px;
+      cursor: pointer;
+    }
+
+    #home {
+      position: absolute;
+      top: 550px;
+      left: 301px;
+      width: 50px;
+      height: 50px;
+      cursor: pointer;
+    }
+
+
+    #media_player {
+      position: absolute;
+      top: 467px;
+      left: 390px;
+      width: 50px;
+      height: 50px;
+      cursor: pointer;
+    }
+
+
+
+    #play {
+      position: absolute;
+    top: 425px;
+    left: 305px;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    }
+
+
+
+    #stop {
+      position: absolute;
+  top: 425px;
+  left: 328px;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+    }
+
+
+	#film {
+		position: absolute;
+    top: 134px;
+    left: 202px;
+    width: 247px;
+    height: 100px;
+    cursor: pointer;
+	}
+
+
+#extra {
+	    position: absolute;
+    top: 264px;
+    left: 212px;
+    width: 64px;
+    height: 64px;
+    cursor: pointer;
+}
+
+    #contenitore {
+      position: relative;
+    }
+
+
+.livello_1 {
+	display: none;
+}
+
+.livello_2 {
+	display: none;
+}
+
+
+.livello_1 {
+	background-color: red;
+}
+.livello_2 div {
+	background-color: red;
+}

@@ -1,0 +1,55 @@
+<!doctype html>
+
+<html lang="it">
+
+<head>
+
+  <meta charset="utf-8">
+
+  <title>iPhone_simulator</title>
+
+</head>
+
+<body>
+
+  <link href="css/style.css" rel="stylesheet" type="text/css">
+  <script src="js/app.js"></script>
+
+
+  <h2>iPhone_simulator</h2>
+
+  <a href="https://github.com/eugeniosegala/iPhone_simulator"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/e7bbb0521b397edbd5fe43e7f760759336b5e05f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677265656e5f3030373230302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png"></a>
+
+  <div id="contenitore">
+
+    <div id="home" onclick="load_image('img/iphone-on.jpg');"></div>
+
+    <div id="store" class="livello_1" onclick="load_image('img/store.jpg', this);"></div>
+
+    <div id="controller" class="livello_2">
+      <div id="film" ></div>
+      <div id="extra" ></div>
+    </div>
+
+    <div id="media_player" class="livello_1" onclick="load_image('img/audio.jpg', this);"></div>
+
+    <div id="controller" class="livello_2">
+      <div id="play" onclick="audio.play();"></div>
+      <div id="stop" onclick="audio.pause();"></div>
+    </div>
+
+    <img id="telefono" level="home" src="img/iphone-off.jpg">
+
+  </div>
+
+  <br><br>
+
+
+  <button onclick="load_image('img/iphone-on.jpg');">Accendi</button>
+  <button onclick="load_image('img/iphone-off.jpg');">Spegni</button>
+
+
+
+</body>
+
+</html>
