@@ -1,4 +1,4 @@
-# shining_star
+# iPhone_simulator
 
 An iPhone simulator with auto-exclusion element. Dev in PURE JS.
 
