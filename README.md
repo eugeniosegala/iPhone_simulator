@@ -21,7 +21,7 @@ Just insert:
 <br>
 
 
-<p>💾💾💾 <a href="http://www.testersite.it/github/iphone_simulator/">DEMO HERE</a> 💾💾💾</p>
+<p><a href="http://www.testersite.it/github/iphone_simulator/">DEMO HERE</a></p>
 
 <br>
 
