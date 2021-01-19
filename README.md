@@ -18,13 +18,6 @@ Just insert:
 
 ```
 
-<br>
-
-
-<p><a href="http://www.testersite.it/github/iphone_simulator/">DEMO HERE</a></p>
-
-<br>
-
 # MIT License
 
 Copyright (c) 2017 Eugenio Segala
